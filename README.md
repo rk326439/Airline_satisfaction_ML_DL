@@ -24,7 +24,6 @@ Data Preprocessing: The initial step involves data cleaning, handling missing va
 **Evaluation**: Model performance is assessed using appropriate evaluation metrics, such as accuracy,confusion matrix. The results are presented and compared to determine the most effective models.
 
 # Conclusion 
-The analysis concludes with a summary of findings and insights gained from the data. Recommendations for airlines based on the analysis results may also be included.
-
+The analysis concludes with a summary of findings and insights gained from the data.
 
 Thank you for your interest in this airline satisfaction analysis project.
